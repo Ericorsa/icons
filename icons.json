@@ -1,7 +1,7 @@
 {
   "name": "Self-use icons",
   "description": "by EC",
-  "Icon": [
+  "icons": [
     {"name": "FacMata", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/FacMata.png"},
     {"name": "MaoXiongMX", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/MaoXiongMX.png"},
     {"name": "Onyra", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/Onyra.png"}
