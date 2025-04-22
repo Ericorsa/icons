@@ -1,9 +1,9 @@
 {
-  "name":"Emby icon", "description":"by EC", 
-  "Icon":[
-    {"name":"FacMata", "url":"https:\/\/raw.githubusercontent.com\/Ericorsa\/Icon\/FacMata.png"},
-    {"name":"MaoXiongMX", "url":"https:\/\/raw.githubusercontent.com\/Ericorsa\/Icon\/MaoXiongMX.png"},
-    {"name":"Onyra", "url":"https:\/\/raw.githubusercontent.com\/Ericorsa\/Icon\/Onyra.png"}
-    {"name":"Onyra", "url":"https:\/\/raw.githubusercontent.com\/Ericorsa\/Icon\/Onyra.png"}
- ]
+  "name": "Emby icon",
+  "description": "by EC",
+  "Icon": [
+    {"name": "FacMata", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/FacMata.png"},
+    {"name": "MaoXiongMX", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/MaoXiongMX.png"},
+    {"name": "Onyra", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/Onyra.png"}
+  ]
 }
