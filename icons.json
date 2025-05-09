@@ -4,6 +4,9 @@
   "icons": [
     {"name": "FacMata", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/FacMata.png"},
     {"name": "MaoXiongMX", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/MaoXiongMX.png"},
-    {"name": "Onyra", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/Onyra.png"}
+    {"name": "Onyra", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/Onyra.png"},
+    {"name": "nezha", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/nezha.png"},
+    {"name": "yunhaioceancloud", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/yunhaioceancloud.png"},
+    {"name": "peiqian", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/peiqian.png"}
   ]
 }
