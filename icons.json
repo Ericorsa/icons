@@ -2,12 +2,14 @@
   "name": "Self-use icons",
   "description": "by EC",
   "icons": [
+    {"name": "Earth", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/Earth.png"},
     {"name": "FacMata", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/FacMata.png"},
     {"name": "MaoXiongMX", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/MaoXiongMX.png"},
     {"name": "Onyra", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/Onyra.png"},
     {"name": "nezha", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/nezha.png"},
     {"name": "yunhaioceancloud", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/yunhaioceancloud.png"},
     {"name": "rujing", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/rujing.png"},
-    {"name": "peiqian", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/peiqian.png"}
+    {"name": "peiqian", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/peiqian.png"},
+    {"name": "qinlinkaimen", "url": "https://raw.githubusercontent.com/Ericorsa/Icon/refs/heads/main/qinlinkaimen.png"}
   ]
 }
